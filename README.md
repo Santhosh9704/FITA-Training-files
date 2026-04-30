@@ -5,5 +5,7 @@ day 3 : leave
 day 4 : leave 
 day 5 : interview python solving
 day 6 : python code
-day 7 : leave 
+day 7 : leave  (28/04/26)
 day 8 : oops concepts
+day 9 : oops example coding
+day 10 
