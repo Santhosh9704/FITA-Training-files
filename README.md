@@ -8,4 +8,6 @@ day 6 : python code
 day 7 : leave  (28/04/26)
 day 8 : oops concepts
 day 9 : oops example coding
-day 10 
+day 10 : example oops concept
+day  14 : inhertiance 
+day 15 : 
