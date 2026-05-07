@@ -1,4 +1,4 @@
-15/04/2026: started
+15/04/2026: started - concept file have content of readme file formmat
 day 1 : python basic
 day 2 :loops
 day 3 : leave
@@ -12,5 +12,5 @@ day 10 : example oops concept
 day 14 : inhertiance 
 day 15 : Game develop using pygame
 day 16 : constraints and sample program , sudo game build
-day 17 : polymorphism and abstraction concepts and program
+day 17 : polymorphism and abstraction concepts and program 
 
