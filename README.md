@@ -12,3 +12,5 @@ day 10 : example oops concept
 day 14 : inhertiance 
 day 15 : Game develop using pygame
 day 16 : constraints and sample program , sudo game build
+day 17 : polymorphism and abstraction concepts and program
+
