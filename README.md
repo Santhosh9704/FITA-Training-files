@@ -15,4 +15,5 @@ day 16 : constraints and sample program , sudo game build
 day 17 : polymorphism and abstraction concepts and program 
 day 18 : encaplusation concepts and example code
 day 19 : advance oops concepts 
+day 20 : generator and decorator
 
